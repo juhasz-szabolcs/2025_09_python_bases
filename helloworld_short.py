@@ -1,5 +1,5 @@
-lastname = input("Enter your lastname: ")
-firstname = input("Enter your firstname: ")
+last_name = input("Enter your lastname: ")
+first_name = input("Enter your firstname: ")
 
-print("Hello, " + firstname + " " + lastname + "!")
-print(f"Hello, {firstname} {lastname}!")
+print("Hello, " + first_name + " " + last_name + "!")
+print(f"Hello, {first_name} {last_name}!")
